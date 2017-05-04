@@ -1,0 +1,2 @@
+# UDPSocketAppDemo
+这是一个简单的安卓app，功能是向指定的ip地址和端口号组成的socket发送数据包，然后接收到的响应后显示
